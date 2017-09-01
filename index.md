@@ -104,12 +104,10 @@ TBD
 This	course	has	four	important	rules.	If	you	choose	to	follow	these	rules,	your	odds	of	learning	the
 material	and	earning	a	good	grade	in	this	class	will	improve	greatly	(these	rules	will	also	help	you
 succeed	in	your	other	classes).			
-1.	**Show	up**. To	succeed	in	this	course,	you	must	choose	to	attend	every	scheduled	class	period	in	its
-entirety.	Every	student	has	one	"free”	unexcused	absence	(although	it	is	really	not	free,	you	always	miss
-something	when	you	miss	class).		A	second	unexcused	absence	will	result	in	a	5%	cut	in	your	final	class
-grade	and	a	third	absence	a	10%	cut.		More	than	three	unexcused	absences	may	result	in
-a	failing	grade	for	the	class. Tardiness	of	over	10	minutes	will	result	in	an	absence	for
-the	day.
+1.	**Show up**. To	succeed	in	this	course,	you	must	choose	to	attend	every	scheduled	class	period	in	its
+entirety.	Every	student	has	one	"free”	unexcused	absence. A	second	unexcused	absence	will	result	in	a	5%	cut	in	your	final	class
+grade	and	a	third	absence	a	10%	cut. More	than three unexcused	absences	may	result	in
+a	failing	grade	for	the	class. Tardiness	of	over	10	minutes	will	result	in	an	absence	for the day.
 2.	**Do	the	work**. To	succeed	in	this	class,	you	must	choose	to	do	your	very	best	work	in	preparing	for
 each	class	session	and	on	all	your	assignments.		See	the [course	Assignments](/assignments.html),	for	additional	information on	completing	assignments.		
 3.	**Participate	actively**. To	succeed	in	this	class,	you	must	choose	to	stay	focused	and	involved	in	every
