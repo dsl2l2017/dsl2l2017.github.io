@@ -5,8 +5,6 @@ layout: default
 Technological advances in data gathering and storage have led
 to a rapid proliferation of large amounts of data in diverse areas such as climate studies, cosmology, medicine, Web data processing, and engineering. Making sense of this data deluge requires a set of skills which have become fundamental in any major corporation and any almost any scientific discipline.
 
-
-
 ## Learning objectives
 
 From web scraping and data wrangling to advanced topics like machine learning and deep learning, in this course you will learn a variety of skills by working on real examples.
@@ -14,7 +12,7 @@ From web scraping and data wrangling to advanced topics like machine learning an
 * **Gather and organize**. Learn how to use Python to gather and organize data programmatically and prepare it for deeper analysis.
 Key technologies: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [Pandas](http://pandas.pydata.org/).
 * **Analyze**. Discover patterns and trends lurking in the data and extract conclusions. Key technologies: [NumPy](http://www.numpy.org), [SciPy](https://scipy.org), [Pandas](http://pandas.pydata.org).
-* **Model**. Model complex phenomena and use data to predict the future. Key technologies: [scikit-learn](http://scikit-learn.org), [Keras](https://keras.io/), [PyTorch](http://pytorch.org/), [Tensorflow](https://www.tensorflow.org/).
+* **Model**. Model complex phenomena and use data to automate decisions. Key technologies: [scikit-learn](http://scikit-learn.org), [Keras](https://keras.io/), [PyTorch](http://pytorch.org/), [Tensorflow](https://www.tensorflow.org/).
 * **Report**. Display information visually and communicate your findings in a way that is clear and compelling. Software packages: [Matplotlib](http://matplotlib.org/), [JuPyter](http://jupyter.org/), [Bokeh](https://bokeh.pydata.org).
 
 ## Instructors
@@ -22,9 +20,9 @@ Key technologies: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup
 
 <!-- [Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/)-->
 
-_Invited speaker_: [Nelle Varoquaux](https://bids.berkeley.edu/people/nelle-varoquaux), Postdoctoral Researcher, Berkeley Institute for Data Science.
+_Invited speaker_ (September 26th): [Nelle Varoquaux](https://bids.berkeley.edu/people/nelle-varoquaux), Postdoctoral Researcher, Berkeley Institute for Data Science.
 
-_Invited speaker_: [Federico Vaggi](https://www.linkedin.com/in/federico-vaggi-ba72a654/), Senior Applied Data Scientist at Amazon Seattle.
+_Invited speaker_ (date TBD): [Federico Vaggi](https://www.linkedin.com/in/federico-vaggi-ba72a654/), Senior Applied Data Scientist at Amazon Seattle.
 
 **Office Hours**: Office hours are available for students who need further clarification of concepts presented in lecture, or have made solid attempts on the homework assignment or other practice problems and require further assistance understanding how to approach such problems.
 
@@ -35,7 +33,7 @@ Friday: 16h to 18h
 
 This course only requires an undergraduate level on statistics, linear algebra and calculus.
 
-On a more practical level, you will need access to a computer in order to complete the assignments. Bringing your own laptop is highly recommended for the lab sessions.
+Students are required to come with a laptop to the the lab sessions. Please come with a Python distribution such as [Anaconda](https://www.anaconda.com/download/) installed to minimize set up time. If you would like to attend but you don't have access to computing resources, contact me and we will figure up something.
 
 
 ## Course Schedule
@@ -51,48 +49,65 @@ Introduction to data science and inferential thinking.
 ### Session 2 (September 19th): Foundations of data science II
 Introduction to data science and inferential thinking, part 2.
 
-**Practical session**: Array computing with NumPy
+**Practical session**: Data cleaning and munging with Pandas.
+
 
 ### Session 3 (September 26th): Visualization
 
 Visualization in Python with Matplotlib.
 
-This session will be mostly practical and will be given by Matplotlib core contributor Nelle Varoquaux.
+This session will be mostly practical and will be given by invited speaker Nelle Varoquaux.
 
 
 ### Session 4 (October 3rd): Data-driven statistics I
 Randomness, empirical distribution and (permutation tests).
 
-**Practical session**: Data cleaning and munging with Pandas.
-
-
-### Session 5 (October 10th): First student presentation
-
-### Session 6: Data-driven statistics II
-
 **Practical session**: exploring [San Francisco open data](https://datasf.org).
 
 
-### Session 7: Machine learning I
+### *Session 5 (October 10th): First student presentation*
+
+In this session, students will present their [first assignment](/assignments.html).
+
+### Session 6 (October 17th): Data-driven statistics II
+
 TBD
+
+**Practical session**: TBD
+
+
+### Session 7 (October 24th): Machine learning I
+TBD
+
 **Practical session**: introduction to machine learning with scikit-learn
 
-### Session 8: Machine learning II
+### Session 8 (October 31st): Machine learning II
 TBD
 
+**Practical session**: TBD
 
-### Session 9: Machine learning III
+
+### Session 9 (November 7th): Machine learning III
 
 TBD
 
-### Session 10: Deep learning I
+**Practical session**: TBD
+
+### Session 10 (November 14th): Deep learning I
+
 TBD
 
-### Session 11: Deep learning II
+**Practical session**: Deep learning with Keras
+
+
+### Session 11 (November 21st): Deep learning II
 
 Feature extraction and reuse. Word embedding. Pre-trained networks. Catastrophic forgetting.
 
-### Session 12: Second and final student presentation
+**Practical session**: TBD
+
+
+### Session 12 (November 28th): Second and final student presentation
 TBD
 
 ---
@@ -124,12 +139,13 @@ applies	to	me too!
 What you can expect from me:
 
 * Attend	every	class	period	and	arrive	to	class	on	time.
-* Come	to	class	with	a positive and friendly attitude.
-* Be	respectful	of	your	ideas	and	value	the	diversity	you	bring	to	the	classroom.
-* Be	open	to	dialogue	that	challenges	me.
-* Answer	any	appropriate	questions	you	may	have.
+* Provide access to quality learning material adapted to the level and background of all students.
 * Use	a	variety	of	teaching	techniques	and	modalities to	accommodate	different	learning	styles.
 * Return	written	assignments	in	class	and	online	in	a	timely	fashion	and	provide	helpful	feedback.
+* Come to class with a positive and friendly attitude.
+* Be	respectful	of	your	ideas	and	value	the	diversity	you	bring	to	the	classroom.
+* Be open to dialogue that challenges me.
+* Answer	any	appropriate	questions	you	may	have.
 * Be	present	during	my	stated	office	hours.
 
 
