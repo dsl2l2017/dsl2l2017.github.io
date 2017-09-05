@@ -33,12 +33,12 @@ Friday: 16h to 18h
 
 This course only requires an undergraduate level on statistics, linear algebra and calculus.
 
-Students are required to come with a laptop to the the lab sessions. Please come with a Python distribution such as [Anaconda](https://www.anaconda.com/download/) installed to minimize set up time. If you would like to attend but you don't have access to computing resources, contact me and we will figure up something.
+Students are required to come with a laptop to the the lab sessions. Please come with a Python distribution such as [Anaconda](https://www.anaconda.com/download/) installed to minimize set up time. If you would like to attend but you don't have access to computing resources, contact me and we will figure something up.
 
 
 ## Course Schedule
 
-The course is organized in sessions of 3 hours, from 13h to 16h. Each session is split in 1.5h of theory (presentation and whiteboard) and 1.5h of practice.
+The course is organized in sessions of 3 hours, from 13h to 16h. Each session is split in 1h of theory (presentation and whiteboard) and 1h45 of lab practice, with a 15min break in-between. The course will take place in [Saturdjia Dai Hall](http://www.berkeley.edu/map?sutardja) room 250.
 
 
 ### Session 1 (September 12th): Foundations of data science I
@@ -128,7 +128,7 @@ each	class	session	and	on	all	your	assignments.		See	the [course	Assignments](/a
 3.	**Participate	actively**. To	succeed	in	this	class,	you	must	choose	to	stay	focused	and	involved	in	every
 class,	offering	your	best	comments,	questions,	and	answers.		This	is	a	seminar	class,	not	a	lecture	class
 –	active	discussion	is	expected	of	all	students.
-4. **Respect**		You	will	be	exposed	to	a	variety	of	viewpoints,	values	and	opinions	in	college	that	will	differ
+4. **Respect**.		You	will	be	exposed	to	a	variety	of	viewpoints,	values	and	opinions	in	college	that	will	differ
 from	your	own.	All	students	in	this	class	should	feel	comfortable	expressing	their	viewpoints	and
 concerns	in	class.	You	are	an	important	part	of	creating	an	atmosphere	that	makes	this	possible.		This
 applies	to	me too!
