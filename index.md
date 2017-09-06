@@ -12,8 +12,8 @@ From web scraping and data wrangling to advanced topics like machine learning an
 * **Gather and organize**. Learn how to use Python to gather and organize data programmatically and prepare it for deeper analysis.
 Key technologies: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), [Pandas](http://pandas.pydata.org/).
 * **Analyze**. Discover patterns and trends lurking in the data and extract conclusions. Key technologies: [NumPy](http://www.numpy.org), [SciPy](https://scipy.org), [Pandas](http://pandas.pydata.org).
-* **Model**. Model complex phenomena and use data to automate decisions. Key technologies: [scikit-learn](http://scikit-learn.org), [Keras](https://keras.io/), [PyTorch](http://pytorch.org/), [Tensorflow](https://www.tensorflow.org/).
-* **Report**. Display information visually and communicate your findings in a way that is clear and compelling. Software packages: [Matplotlib](http://matplotlib.org/), [JuPyter](http://jupyter.org/), [Bokeh](https://bokeh.pydata.org).
+* **Model**. From linear regression to deep learning, learn to model complex phenomena and use data to automate decisions. Key technologies: [scikit-learn](http://scikit-learn.org), [Keras](https://keras.io/), [PyTorch](http://pytorch.org/), [Tensorflow](https://www.tensorflow.org/).
+* **Report**. Display information visually and communicate your findings in a way that is clear and compelling. Software packages: [Matplotlib](http://matplotlib.org/), [Jupyter](http://jupyter.org/), [Bokeh](https://bokeh.pydata.org).
 
 ## Instructors
 [Fabian Pedregosa](http://fa.bianp.net), [\<f@bianp.net\>](mailto:f@bianp.net), Postdoctoral Researcher, UC Berkeley.
@@ -60,7 +60,8 @@ This session will be mostly practical and will be given by invited speaker Nelle
 
 
 ### Session 4 (October 3rd): Data-driven statistics I
-Randomness, empirical distribution and (permutation tests).
+
+TBD
 
 **Practical session**: exploring [San Francisco open data](https://datasf.org).
 
