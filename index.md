@@ -18,7 +18,7 @@ Key technologies: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup
 ## Instructors
 [Fabian Pedregosa](http://fa.bianp.net), [\<f@bianp.net\>](mailto:f@bianp.net), Postdoctoral Researcher, UC Berkeley.
 
-<!-- [Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/)-->
+[Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/), UC Berkeley
 
 _Invited speaker_ (September 26th): [Nelle Varoquaux](https://bids.berkeley.edu/people/nelle-varoquaux), Postdoctoral Researcher, Berkeley Institute for Data Science.
 
