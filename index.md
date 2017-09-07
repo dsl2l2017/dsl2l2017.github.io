@@ -38,7 +38,7 @@ Students are required to come with a laptop to the the lab sessions. Please come
 
 ## Course Schedule
 
-The course is organized in sessions of 3 hours, from 13h to 16h. Each session is split in 1h of theory (presentation and whiteboard) and 1h45 of lab practice, with a 15min break in-between. The course will take place in [Saturdjia Dai Hall](http://www.berkeley.edu/map?sutardja) room 250.
+The course is organized in sessions of 3 hours, from 14h to 17h. Each session is split in 1h of theory (presentation and whiteboard) and 1h45 of lab practice, with a 15min break in-between. The course will take place in [Saturdjia Dai Hall](http://www.berkeley.edu/map?sutardja) room 250.
 
 
 ### Session 1 (September 12th): Foundations of data science I
@@ -117,19 +117,13 @@ TBD
 
 
 ## Rules	for	Success	(Student	Responsibilities)
-This	course	has	four	important	rules.	If	you	choose	to	follow	these	rules,	your	odds	of	learning	the
+This	course	has	three	important	rules.	If	you	choose	to	follow	these	rules,	your	odds	of	learning	the
 material	and	earning	a	good	grade	in	this	class	will	improve	greatly	(these	rules	will	also	help	you
 succeed	in	your	other	classes).			
-1.	**Show up**. To	succeed	in	this	course,	you	must	choose	to	attend	every	scheduled	class	period	in	its
-entirety.	Every	student	has	one	"free”	unexcused	absence. A	second	unexcused	absence	will	result	in	a	5%	cut	in	your	final	class
-grade	and	a	third	absence	a	10%	cut. More	than three unexcused	absences	may	result	in
-a	failing	grade	for	the	class. Tardiness	of	over	10	minutes	will	result	in	an	absence	for the day.
-2.	**Do	the	work**. To	succeed	in	this	class,	you	must	choose	to	do	your	very	best	work	in	preparing	for
-each	class	session	and	on	all	your	assignments.		See	the [course	Assignments](/assignments.html),	for	additional	information on	completing	assignments.		
-3.	**Participate	actively**. To	succeed	in	this	class,	you	must	choose	to	stay	focused	and	involved	in	every
-class,	offering	your	best	comments,	questions,	and	answers.		This	is	a	seminar	class,	not	a	lecture	class
+1. **Do the work**. To	succeed	in	this	class,	you	must	choose	to	do	your	very	best on all	your	assignments.		See	the [course	Assignments](/assignments.html),	for	additional	information on	completing	assignments.		
+2.	**Participate	actively**. To	succeed	in	this	class,	you	must	choose	to	stay	focused	and	involved,	offering	your	best	comments,	questions,	and	answers.		This	is	a	seminar	class,	not	a	lecture	class
 –	active	discussion	is	expected	of	all	students.
-4. **Respect**.		You	will	be	exposed	to	a	variety	of	viewpoints,	values	and	opinions	in	college	that	will	differ
+3. **Respect**.		You	will	be	exposed	to	a	variety	of	viewpoints,	values	and	opinions	in	college	that	will	differ
 from	your	own.	All	students	in	this	class	should	feel	comfortable	expressing	their	viewpoints	and
 concerns	in	class.	You	are	an	important	part	of	creating	an	atmosphere	that	makes	this	possible.		This
 applies	to	me too!
