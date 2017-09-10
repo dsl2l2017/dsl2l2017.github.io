@@ -48,7 +48,7 @@ Pioneers of data science. Introduction to regression models. Dimensionality and 
 
 **Slides**: [part 1](https://github.com/dsl2l2017/dsl2l2017.github.io/blob/master/assets/slides/1.pdf), [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/statistical_learning.pdf).
 
-**Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy. Material: We will do chapters 0, 1 and 2 of Jake VanderPlas' [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb).
+**Practical session**: The Jupyter (formerly IPython) interactive environment. NumPy, Python's array computing library. As material we will use chapters 1 and 2 of Jake VanderPlas' excellent [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb).
 
 
 ### Session 2 (September 19th): Linear regression
@@ -57,7 +57,7 @@ Introduction to regression models. Dimensionality and structured models. Model s
 
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/linear_regression.pdf)
 
-**Practical session**: Data cleaning and munging with Pandas.
+**Practical session**: Pandas: a versatile data container. As material we will use [Chapter 3](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb) of the Data Science handbook.
 
 
 ### Session 3 (September 26th): Visualization with Matplotlib
@@ -73,7 +73,7 @@ Introduction to classification problems. Logistic regression. Multivariante logi
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
 
 
-**Practical session**: exploring [San Francisco open data](https://datasf.org).
+**Practical session**: exploring [San Francisco open data](https://datasf.org). [Supervised learning in scikit-learn](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb),
 
 
 ### *Session 5 (October 10th): First student presentation*
@@ -87,34 +87,31 @@ Ridge regression and the LASSO. Tuning hyperparameter selection. Dimension reduc
 
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/model_selection.pdf)
 
-**Practical session**: TBD
+**Practical session**:
+[Model selection](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/03-Model%20Selection.ipynb)
 
 
-### Session 7 (October 24th):
-
-
-
-**Practical session**: introduction to machine learning with scikit-learn
-
-### Session 8 (October 31st): Moving beyond linearity
+### Session 7 (October 24th): Moving beyond linearity
 
 Support vector machines. Polynomials and step functions. Piecwise-polynomials and splines. Smoothing splines. Generalized additive models and local regression.
 
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/nonlinear.pdf)
 
-**Practical session**: TBD
+**Practical session**:TBD
 
-
-### Session 9 (November 7th): Tree-based methods
+### Session 8 (October 31st): Tree-based methods
 
 Tree-based methods. Classification trees. Bagging and random forest. Boosting.
 
+**Practical session**: [Forests](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/04-Forests.ipynb)
+
+
+### Session 9 (November 7th): Deep learning I
+
 **Practical session**: TBD
 
-### Session 10 (November 14th): Deep learning I
+### Session 10 (November 14th): Invited speaker Federico Vaggi
 
-
-**Practical session**: Deep learning with Keras
 
 
 ### Session 11 (November 21st): Deep learning II
