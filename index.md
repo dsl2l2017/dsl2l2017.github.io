@@ -48,7 +48,7 @@ Pioneers of data science. Introduction to regression models. Dimensionality and 
 
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/statistical_learning.pdf).
 
-**Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy. Material: We will do chapters 0, 1 and 2 of Jake VanderPlas' [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook).
+**Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy. Material: We will do chapters 0, 1 and 2 of Jake VanderPlas' [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb).
 
 
 ### Session 2 (September 19th): Linear regression
@@ -66,9 +66,9 @@ Introduction to regression models. Dimensionality and structured models. Model s
 **This session will be given by invited speaker Nelle Varoquaux**.
 
 
-### Session 4 (October 3rd): Linear regression
+### Session 4 (October 3rd): Classification
 
-Linear regression. Hypothesis testing and confidence intervals.
+Introduction to classification problems. Logistic regression. Multivariante logistic regression. Discriminant analysis.
 
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
 
@@ -80,24 +80,9 @@ Linear regression. Hypothesis testing and confidence intervals.
 
 In this session, students will present their [first assignment](/assignments.html). In this assignment, the students should make a 15-min presentation (10 min presentation + 5 min questions) on the project of their choice.
 
-### Session 6 (October 17th): Classification
+### Session 6 (October 17th): Linear model selection and regularization
 
-Introduction to classification problems. Logistic regression. Multivariante logistic regression. Discriminant analysis.
-
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
-
-**Practical session**: TBD
-
-
-### Session 7 (October 24th): Resampling methods
-TBD
-
-
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/cv_boot.pdf)
-
-**Practical session**: introduction to machine learning with scikit-learn
-
-### Session 8 (October 31st): Linear model selection and regularization
+Ridge regression and the LASSO. Tuning hyperparameter selection. Dimension reduction methods.
 
 
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/model_selection.pdf)
@@ -105,15 +90,29 @@ TBD
 **Practical session**: TBD
 
 
-### Session 9 (November 7th): Moving beyond linearity
+### Session 7 (October 24th):
 
-TBD
+
+
+**Practical session**: introduction to machine learning with scikit-learn
+
+### Session 8 (October 31st): Moving beyond linearity
+
+Support vector machines. Polynomials and step functions. Piecwise-polynomials and splines. Smoothing splines. Generalized additive models and local regression.
+
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/nonlinear.pdf)
 
 **Practical session**: TBD
 
-### Session 10 (November 14th): Tree-based methods
 
-TBD
+### Session 9 (November 7th): Tree-based methods
+
+Tree-based methods. Classification trees. Bagging and random forest. Boosting.
+
+**Practical session**: TBD
+
+### Session 10 (November 14th): Deep learning I
+
 
 **Practical session**: Deep learning with Keras
 
@@ -126,7 +125,8 @@ Feature extraction and reuse. Word embedding. Pre-trained networks. Catastrophic
 
 
 ### Session 12 (November 28th): Second and final student presentation
-TBD
+
+Final presentation of projects developed during this course.
 
 ---
 
@@ -167,6 +167,8 @@ What you can expect from me:
 Ani Adhikari and John DeNero, [Inferential thinking](https://www.inferentialthinking.com)
 
 Jake VanderPlas, [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+Trevor Hastie and Robert Tibshirany, [Statistical Learning](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/), Stanford MOOC on data science and machine learning. I will be reusing some of their slides.
 
 Joel Grus, [Data science from scratch: First principles with Python](http://shop.oreilly.com/product/0636920033400.do), O'Reilly Media, 2015.
 
