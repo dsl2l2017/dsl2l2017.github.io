@@ -41,27 +41,28 @@ Students are required to come with a laptop to the the lab sessions. Please come
 The course is organized in sessions of 3 hours, from 14h to 17h. Each session is split in 1h of theory (presentation and whiteboard) and 1h45 of lab practice, with a 15min break in-between. The course will take place in [Saturdjia Dai Hall](http://www.berkeley.edu/map?sutardja) room 250.
 
 
-### Session 1 (September 12th): Foundations of data science I
-Introduction to data science and inferential thinking.
+### Session 1 (September 12th): Pioneers of data science
 
-**Practical session**: Introduction to [Python](https://www.python.org/) and the [Jupyter](http://jupyter.org/) notebook.
+A historical perspective on data science. Modern statistics. Resampling and randomness.
 
-### Session 2 (September 19th): Foundations of data science II
-Introduction to data science and inferential thinking, part 2.
+**Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy.
+
+### Session 2 (September 19th): Foundations of data science I
+
+Introduction to data science and inferential thinking. Techniques for visualization of high-dimensional datasets.
 
 **Practical session**: Data cleaning and munging with Pandas.
 
 
-### Session 3 (September 26th): Visualization
-
-Visualization in Python with Matplotlib.
-
-This session will be mostly practical and will be given by invited speaker Nelle Varoquaux.
+### Session 3 (September 26th): Visualization with Matplotlib
 
 
-### Session 4 (October 3rd): Data-driven statistics I
+**This session will be given by invited speaker Nelle Varoquaux**.
 
-TBD
+
+### Session 4 (October 3rd): Foundations of data science II
+
+Anonymization (and Pseudonymization) of Personal Data.
 
 **Practical session**: exploring [San Francisco open data](https://datasf.org).
 
@@ -118,9 +119,8 @@ TBD
 
 ## Rules	for	Success	(Student	Responsibilities)
 This	course	has	three	important	rules.	If	you	choose	to	follow	these	rules,	your	odds	of	learning	the
-material	and	earning	a	good	grade	in	this	class	will	improve	greatly	(these	rules	will	also	help	you
-succeed	in	your	other	classes).			
-1. **Do the work**. To	succeed	in	this	class,	you	must	choose	to	do	your	very	best on all	your	assignments.		See	the [course	Assignments](/assignments.html),	for	additional	information on	completing	assignments.		
+material	and	earning	a	good	grade	in	this	class	will	improve	greatly.			
+1. **Work**. To	succeed	in	this	class,	you	must	choose	to	do	your	very	best on all	your	assignments. See	the [course	Assignments](/assignments.html), for additional information on	completing	assignments.		
 2.	**Participate	actively**. To	succeed	in	this	class,	you	must	choose	to	stay	focused	and	involved,	offering	your	best	comments,	questions,	and	answers.		This	is	a	seminar	class,	not	a	lecture	class
 –	active	discussion	is	expected	of	all	students.
 3. **Respect**.		You	will	be	exposed	to	a	variety	of	viewpoints,	values	and	opinions	in	college	that	will	differ
@@ -145,11 +145,22 @@ What you can expect from me:
 
 
 # Bibliography
-Adhikari, Ani and DeNero, John, [Inferential thinking](https://www.inferentialthinking.com)
 
-VanderPlas, Jake, [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+### General Data Science
+
+Ani Adhikari and John DeNero, [Inferential thinking](https://www.inferentialthinking.com)
+
+Jake VanderPlas, [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 
-Grus, Joel. [Data science from scratch: First principles with Python](http://shop.oreilly.com/product/0636920033400.do), O'Reilly Media, 2015.
+Joel Grus, [Data science from scratch: First principles with Python](http://shop.oreilly.com/product/0636920033400.do), O'Reilly Media, 2015.
 
-McKinney, Wes. [Python for data analysis](http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf), O'Reilly Media, 2013.
+Wes McKinney, [Python for data analysis](http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf), O'Reilly Media, 2013.
+
+
+### Machine Learning
+
+Trevor Hastie, Robert Tibshirani, Jerome Friedman [The Elements of
+Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+Andreas Müller and Sarah Guido [Introduction to Machine Learning with Python. A Guide for Data Scientists](http://shop.oreilly.com/product/0636920030515.do)
