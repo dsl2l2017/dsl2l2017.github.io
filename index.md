@@ -18,7 +18,9 @@ Key technologies: [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup
 ## Instructors
 [Fabian Pedregosa](http://fa.bianp.net), [\<f@bianp.net\>](mailto:f@bianp.net), Postdoctoral Researcher, UC Berkeley.
 
-[Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/), UC Berkeley
+[Laurent El Ghaoui](https://people.eecs.berkeley.edu/~elghaoui/), Professor, UC Berkeley.
+
+_Teaching assistant_: Bowen Yin Wang
 
 _Invited speaker_ (September 26th): [Nelle Varoquaux](https://bids.berkeley.edu/people/nelle-varoquaux), Postdoctoral Researcher, Berkeley Institute for Data Science.
 
@@ -26,8 +28,7 @@ _Invited speaker_ (date TBD): [Federico Vaggi](https://www.linkedin.com/in/feder
 
 **Office Hours**: Office hours are available for students who need further clarification of concepts presented in lecture, or have made solid attempts on the homework assignment or other practice problems and require further assistance understanding how to approach such problems.
 
-Tuesday: 16h to 18h.
-Friday: 16h to 18h
+The office hours are usually Fridays from 15h to 17h. The google calendar below always has the latest information.
 
 ## Course requirements
 
@@ -41,15 +42,20 @@ Students are required to come with a laptop to the the lab sessions. Please come
 The course is organized in sessions of 3 hours, from 14h to 17h. Each session is split in 1h of theory (presentation and whiteboard) and 1h45 of lab practice, with a 15min break in-between. The course will take place in [Saturdjia Dai Hall](http://www.berkeley.edu/map?sutardja) room 250.
 
 
-### Session 1 (September 12th): Pioneers of data science
+### Session 1 (September 12th): Foundations of data science
 
-A historical perspective on data science. Modern statistics. Resampling and randomness.
+Pioneers of data science. Introduction to regression models. Dimensionality and structured models. Model selection and bias-variance tradeoff. Classification.
 
-**Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy.
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/statistical_learning.pdf).
 
-### Session 2 (September 19th): Foundations of data science I
+**Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy. Material: We will do chapters 0, 1 and 2 of Jake VanderPlas' [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook).
 
-Introduction to data science and inferential thinking. Techniques for visualization of high-dimensional datasets.
+
+### Session 2 (September 19th): Linear regression
+
+Introduction to regression models. Dimensionality and structured models. Model selection and bias-variance tradeoff.
+
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/linear_regression.pdf)
 
 **Practical session**: Data cleaning and munging with Pandas.
 
@@ -60,42 +66,52 @@ Introduction to data science and inferential thinking. Techniques for visualizat
 **This session will be given by invited speaker Nelle Varoquaux**.
 
 
-### Session 4 (October 3rd): Foundations of data science II
+### Session 4 (October 3rd): Linear regression
 
-Anonymization (and Pseudonymization) of Personal Data.
+Linear regression. Hypothesis testing and confidence intervals.
+
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
+
 
 **Practical session**: exploring [San Francisco open data](https://datasf.org).
 
 
 ### *Session 5 (October 10th): First student presentation*
 
-In this session, students will present their [first assignment](/assignments.html).
+In this session, students will present their [first assignment](/assignments.html). In this assignment, the students should make a 15-min presentation (10 min presentation + 5 min questions) on the project of their choice.
 
-### Session 6 (October 17th): Data-driven statistics II
+### Session 6 (October 17th): Classification
 
-TBD
+Introduction to classification problems. Logistic regression. Multivariante logistic regression. Discriminant analysis.
+
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
 
 **Practical session**: TBD
 
 
-### Session 7 (October 24th): Machine learning I
+### Session 7 (October 24th): Resampling methods
 TBD
+
+
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/cv_boot.pdf)
 
 **Practical session**: introduction to machine learning with scikit-learn
 
-### Session 8 (October 31st): Machine learning II
-TBD
+### Session 8 (October 31st): Linear model selection and regularization
+
+
+**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/model_selection.pdf)
 
 **Practical session**: TBD
 
 
-### Session 9 (November 7th): Machine learning III
+### Session 9 (November 7th): Moving beyond linearity
 
 TBD
 
 **Practical session**: TBD
 
-### Session 10 (November 14th): Deep learning I
+### Session 10 (November 14th): Tree-based methods
 
 TBD
 
@@ -152,11 +168,11 @@ Ani Adhikari and John DeNero, [Inferential thinking](https://www.inferentialthin
 
 Jake VanderPlas, [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-
 Joel Grus, [Data science from scratch: First principles with Python](http://shop.oreilly.com/product/0636920033400.do), O'Reilly Media, 2015.
 
 Wes McKinney, [Python for data analysis](http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf), O'Reilly Media, 2013.
 
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
 ### Machine Learning
 

@@ -10,9 +10,9 @@ The course is validated through 2 assignments. The assignments are carried out b
 
 **Deadline**: October 10th.
 
-The goal of this assignment is to gather, clean and present a dataset. Students can choose any of the above or propose a new project. Note that these projects are not carved in stone but are rather meant as a starting point. Come and talk to me if you plan on significantly modifying the original project.
+The goal of this assignment is to gather, clean and present a dataset. Students can choose any of the above or propose a new project. Note that these projects are not carved in stone but are rather meant as a starting point. Students are encouraged to propose new or derivative projects (but let me know so I can ).
 
-* **Bitcoin (or other criptocurrency) price analysis**. Obtain historical data through [coinmarketcap API](https://coinmarketcap.com/api/) or [blockchain.info API](https://blockchain.info/api) or web scraping and analyze the resulting dataset. Potential tasks:
+* **Criptocurrency price analysis**. Obtain historical data through [coinmarketcap API](https://coinmarketcap.com/api/) or [blockchain.info API](https://blockchain.info/api) or web scraping and analyze the resulting dataset. Potential tasks:
   - Identify daily, weekly and yearly trends.
   - Prove or deny a correlation between the price of bitcoin and the stock market price.
   - [Correlate with news sentiments](http://blog.nycdatascience.com/student-works/exploring-news-sentiment-price-history-bitcoin/)
@@ -30,7 +30,7 @@ The goal of this assignment is to gather, clean and present a dataset. Students 
 
 * **Analysis of geolocalied tweets**. Use a geo-localized social network dataset such as [this one](http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/) to visualize the activity over a map. See also the [facebook friendship map](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/163413_479288597199_8388607_n.jpg?oh=7ab1d82ba8cba6f185d0c2abde531fb5&oe=5A19E418).
 
-* **Trust and anonymity in bitcoin**. Analyze the [Bitcoin OTC social network dataset](https://snap.stanford.edu/data/soc-sign-bitcoinotc.html). See the related publications for tasks that can be explored in this dataset: [Signed Networks in Social Media](http://cs.stanford.edu/people/jure/pubs/triads-chi10.pdf)
+* **Trust and anonymity in bitcoin**. Identify trends in the [Bitcoin OTC social network dataset](https://snap.stanford.edu/data/soc-sign-bitcoinotc.html). See the related publications for tasks that can be explored in this dataset: [Signed Networks in Social Media](http://cs.stanford.edu/people/jure/pubs/triads-chi10.pdf)
 
 * **Adverse food Events**: The [CFSAN Adverse Event Reporting System (CAERS)](https://www.kaggle.com/jboysen/adverse-food-events) is a database that contains information on adverse event and product complaint reports submitted to FDA for foods, dietary supplements, and cosmetics. Questions: what are the most commonly reported foodstuffs?, what are the most commonly reported medical reactions to foods?, where do people in the US most commonly report food-related conditions?
 
