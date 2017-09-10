@@ -46,7 +46,7 @@ The course is organized in sessions of 3 hours, from 14h to 17h. Each session is
 
 Pioneers of data science. Introduction to regression models. Dimensionality and structured models. Model selection and bias-variance tradeoff. Classification.
 
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/statistical_learning.pdf).
+**Slides**: [part 1](https://github.com/dsl2l2017/dsl2l2017.github.io/blob/master/assets/slides/1.pdf), [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/statistical_learning.pdf).
 
 **Practical session**: Scientific Python ecosystem: NumPy, Pandas and SciPy. Material: We will do chapters 0, 1 and 2 of Jake VanderPlas' [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb).
 
