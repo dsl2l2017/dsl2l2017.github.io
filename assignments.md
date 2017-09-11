@@ -10,7 +10,7 @@ The course is validated through 2 assignments. The assignments are carried out b
 
 **Deadline**: October 10th.
 
-The goal of this assignment is to gather, clean and present a dataset. Students can choose any of the above or propose a new project. Note that these projects are not carved in stone but are rather meant as a starting point. Students are encouraged to propose new or derivative projects (but let me know so I can ).
+The goal of this assignment is to gather, clean and present a dataset. Students can choose any of the above or propose a new project. Note that these projects are not carved in stone but are rather meant as a starting point. Students are encouraged to propose new or derivative projects (but let me know before).
 
 * **Criptocurrency price analysis**. Obtain historical data through [coinmarketcap API](https://coinmarketcap.com/api/) or [blockchain.info API](https://blockchain.info/api) or web scraping and analyze the resulting dataset. Potential tasks:
   - Identify daily, weekly and yearly trends.
