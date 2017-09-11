@@ -26,7 +26,7 @@ The goal of this assignment is to gather, clean and present a dataset. Students 
 * **Criptocurrency market visualization and clustering**. Visualize the influence of different criptocurrencies. You can use this scikit-learn example on [visualizing the market structure](http://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html#sphx-glr-auto-examples-applications-plot-stock-market-py) as a starting point.
 
 
-* **Stock market and twitter analysis**. Study which terms are associated with which company. Dataset: [NASDAQ100](http://followthehashtag.com/dataset/category/stocks-twitter-datasets/)
+* **Stock market and twitter analysis**. Study which terms are associated with which company. Dataset: [NASDAQ100](http://followthehashtag.com/datasets/nasdaq-100-companies-free-twitter-dataset/)
 
 * **Analysis of geolocalied tweets**. Use a geo-localized social network dataset such as [this one](http://followthehashtag.com/datasets/free-twitter-dataset-usa-200000-free-usa-tweets/) to visualize the activity over a map. See also the [facebook friendship map](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/163413_479288597199_8388607_n.jpg?oh=7ab1d82ba8cba6f185d0c2abde531fb5&oe=5A19E418).
 
