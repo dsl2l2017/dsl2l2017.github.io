@@ -53,3 +53,5 @@ Goal: Build, deploy and compare machine learning models at scale.
 * **Bitcoin price forecasting**
 
 * **Predicting stock market from Twitter**.
+
+* More projects and details to be decided.
