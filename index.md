@@ -32,7 +32,7 @@ The office hours are usually Fridays from 15h to 17h. The google calendar below 
 
 ## Course requirements
 
-This course only requires an undergraduate level on statistics, linear algebra and calculus.
+This course only requires an undergraduate level on statistics, linear algebra and calculus. I will assume basic understanding of the Python language.
 
 Students are required to come with a laptop to the the lab sessions. Please come with a Python distribution such as [Anaconda](https://www.anaconda.com/download/) installed to minimize set up time. If you would like to attend but you don't have access to computing resources, contact me and we will figure something up.
 
@@ -73,7 +73,7 @@ Introduction to classification problems. Logistic regression. Multivariante logi
 **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
 
 
-**Practical session**: exploring [San Francisco open data](https://datasf.org). [Supervised learning in scikit-learn](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb),
+**Practical session**: exploring [San Francisco open data](https://datasf.org). [Supervised learning with scikit-learn](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb).
 
 
 ### *Session 5 (October 10th): First student presentation*
