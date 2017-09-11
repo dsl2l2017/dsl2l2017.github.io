@@ -37,7 +37,7 @@ The goal of this assignment is to gather, clean and present a dataset. Students 
 * **World Atlas of Language Structures**. There are over 7,000 human languages in the world. The [World Atlas of Language Structures (WALS)](https://www.kaggle.com/rtatman/world-atlas-of-language-structures) contains information on the structure of 2,679 of them. Goal: make an interactive map that shows different linguistic features.
 
 
-* **SF beach water quality**. Analyze and identify patterns in the concentration of bacteria in 15 stations around San Francisco. Dataset: [SF Beaches Water Quality](https://www.kaggle.com/jboysen/sf-beaches-water)
+* **San Francisco beach water quality**. Analyze and identify patterns in the concentration of bacteria in 15 stations around San Francisco. Dataset: [SF Beaches Water Quality](https://www.kaggle.com/jboysen/sf-beaches-water)
 
 
 * **San Francisco yearly budget**. The city of San Francisco has published an [open dataset with the annual budget](https://datasf.org/blog/unpacking-a-10-billion-budget/). Using this dataset, describe how the budget is spent, and formulate recommendations for upcoming years.
