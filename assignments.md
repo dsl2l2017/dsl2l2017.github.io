@@ -42,6 +42,7 @@ The goal of this assignment is to gather, clean and present a dataset. Students 
 
 * **San Francisco yearly budget**. The city of San Francisco has published an [open dataset with the annual budget](https://datasf.org/blog/unpacking-a-10-billion-budget/). Using this dataset, describe how the budget is spent, and formulate recommendations for upcoming years.
 
+* **Cdiscount Image classification challenge**. Participate in the [Kaggle Cdiscount Image classification challenge](https://www.kaggle.com/c/cdiscount-image-classification-challenge). By its complexity, this project should last the full project.
 
 
 ## Second assignment
