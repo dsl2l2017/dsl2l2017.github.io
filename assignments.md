@@ -55,3 +55,8 @@ Goal: Build, deploy and compare machine learning models at scale.
 * **Predicting stock market from Twitter**.
 
 * More projects and details to be decided.
+
+
+# Research project
+
+Alternatively to the lectures and the handouts, the course can also be validated through the development of a research project. My field of research is analysis of algorithms and theoretical optimization. It involves a fair amount of math and coding skills. I expect a commitment of around 20h per week, but this will likely conclude with a publication in a top-tier scientific venue. Come and talk to me if you are interested by this perspective.

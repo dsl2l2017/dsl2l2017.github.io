@@ -51,13 +51,13 @@ Pioneers of data science. Introduction to regression models. Dimensionality and 
 **Practical session**: The Jupyter (formerly IPython) interactive environment. NumPy, Python's array computing library. As material we will use chapters 1 and 2 of Jake VanderPlas' excellent [Python Data Science Handbook](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb).
 
 
-### Session 2 (September 19th): Linear regression
+### Session 2 (September 19th): Analysis of dataset
 
-Introduction to regression models. Dimensionality and structured models. Model selection and bias-variance tradeoff.
+Analysis of dataset. Work by paired programming.
 
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/linear_regression.pdf)
+<!-- **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/linear_regression.pdf)
 
-**Practical session**: Pandas: a versatile data container. As material we will use [Chapter 3](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb) of the Data Science handbook.
+**Practical session**: Pandas: a versatile data container. As material we will use [Chapter 3](https://github.com/dsl2l2017/PythonDataScienceHandbook/blob/master/notebooks/03.00-Introduction-to-Pandas.ipynb) of the Data Science handbook. -->
 
 
 ### Session 3 (September 26th): Visualization with Matplotlib
@@ -66,64 +66,40 @@ Introduction to regression models. Dimensionality and structured models. Model s
 **This session will be given by invited speaker Nelle Varoquaux**.
 
 
-### Session 4 (October 3rd): Classification
+### Session 4 (October 3rd): Machine learning competition.
 
-Introduction to classification problems. Logistic regression. Multivariante logistic regression. Discriminant analysis.
+Introduction to scikit-learn. Participation in a machine learning competition.
 
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/classification.pdf)
-
-
-**Practical session**: exploring [San Francisco open data](https://datasf.org). [Supervised learning with scikit-learn](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/02-Supervised%20learning%20I.ipynb).
 
 
 ### *Session 5 (October 10th): First student presentation*
 
 In this session, students will present their [first assignment](/assignments.html). In this assignment, the students should make a 15-min presentation (10 min presentation + 5 min questions) on the project of their choice.
 
-### Session 6 (October 17th): Linear model selection and regularization
+### Session 6 (October 17th): Deploying at scale
 
-Ridge regression and the LASSO. Tuning hyperparameter selection. Dimension reduction methods.
-
-
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/model_selection.pdf)
-
-**Practical session**:
-[Model selection](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/03-Model%20Selection.ipynb)
+Deployment of a machine learning system in production using Amazon Web Services.
 
 
-### Session 7 (October 24th): Moving beyond linearity
-
-Support vector machines. Polynomials and step functions. Piecwise-polynomials and splines. Smoothing splines. Generalized additive models and local regression.
-
-**Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/nonlinear.pdf)
-
-**Practical session**:TBD
-
-### Session 8 (October 31st): Tree-based methods
-
-Tree-based methods. Classification trees. Bagging and random forest. Boosting.
-
-**Practical session**: [Forests](https://github.com/fabianp/mash_2016_sklearn_intro/blob/master/04-Forests.ipynb)
+### Session 7 (October 24th): The data science interview
 
 
-### Session 9 (November 7th): Deep learning I
-
-**Practical session**: TBD
-
-### Session 10 (November 14th): Invited speaker Federico Vaggi
+### Session 8 (October 31st): TBD
 
 
 
-### Session 11 (November 21st): Deep learning II
-
-Feature extraction and reuse. Word embedding. Pre-trained networks. Catastrophic forgetting.
-
-**Practical session**: TBD
+### Session 9 (November 7th): TBD
 
 
-### Session 12 (November 28th): Second and final student presentation
+### Session 10 (November 14th): TBD
 
-Final presentation of projects developed during this course.
+
+
+### Session 11 (November 21st): TBD
+
+
+### Session 12 (November 28th): TBD
+
 
 ---
 
