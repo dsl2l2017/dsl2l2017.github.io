@@ -63,7 +63,7 @@ Analysis of dataset. Work by paired programming.
 ### Session 3 (September 26th): Visualization with Matplotlib
 
 
-**This session will be given by invited speaker Nelle Varoquaux**.
+**This session will be given by invited speaker Nelle Varoquaux**. [slides](http://dsl2l2017.github.io/assets/slides/slides.pdf)
 
 
 ### Session 4 (October 3rd): Machine learning competition.
