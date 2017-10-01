@@ -53,7 +53,7 @@ Pioneers of data science. Introduction to regression models. Dimensionality and 
 
 ### Session 2 (September 19th): Analysis of dataset
 
-Analysis of dataset. Work by paired programming.
+Analysis of dataset. Work by paired programming. [Lecture material](https://github.com/dsl2l2017/lecture_2)
 
 <!-- **Slides**: part 1, [part 2](https://lagunita.stanford.edu/c4x/HumanitiesScience/StatLearning/asset/linear_regression.pdf)
 
@@ -66,26 +66,28 @@ Analysis of dataset. Work by paired programming.
 **This session will be given by invited speaker Nelle Varoquaux**. [slides](http://dsl2l2017.github.io/assets/slides/slides.pdf)
 
 
-### Session 4 (October 3rd): Machine learning competition.
+### Session 4 (October 3rd): Introduction to supervised learning.
 
-Introduction to scikit-learn. Participation in a machine learning competition.
-
+Permutation tests. Logistic regression.
 
 
 ### *Session 5 (October 10th): First student presentation*
 
 In this session, students will present their [first assignment](/assignments.html). In this assignment, the students should make a 15-min presentation (10 min presentation + 5 min questions) on the project of their choice.
 
-### Session 6 (October 17th): Deploying at scale
+### Session 6 (October 17th): Supervised learning
+
+Supervised learning models.
+
+
+### Session 7 (October 24th): Scikit-learn internals
+
+In this class we will explore the scikit-learn internals by contributing to the project.
+
+
+### Session 8 (October 31st): Machine learning at scale
 
 Deployment of a machine learning system in production using Amazon Web Services.
-
-
-### Session 7 (October 24th): The data science interview
-
-
-### Session 8 (October 31st): TBD
-
 
 
 ### Session 9 (November 7th): TBD
