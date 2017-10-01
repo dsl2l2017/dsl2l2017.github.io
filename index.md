@@ -77,7 +77,7 @@ In this session, students will present their [first assignment](/assignments.htm
 
 ### Session 6 (October 17th): Supervised learning
 
-Supervised learning models.
+Supervised learning models. Overfitting. Regularization.
 
 
 ### Session 7 (October 24th): Scikit-learn internals
