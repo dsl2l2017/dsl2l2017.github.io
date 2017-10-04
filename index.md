@@ -68,7 +68,7 @@ Analysis of dataset. Work by paired programming. [Lecture material](https://gith
 
 ### Session 4 (October 3rd): Introduction to supervised learning.
 
-Permutation tests. Logistic regression. Slides: [part 1](https://dsl2l2017.github.io/assets/slides/Permutation_tests.pdf)
+Permutation tests. Logistic regression. Slides: [part 1](https://dsl2l2017.github.io/assets/slides/Permutation_tests.pdf), [part 2](https://dsl2l2017.github.io/assets/slides/Permutation_tests.pdf)
 
 
 ### *Session 5 (October 10th): First student presentation*
