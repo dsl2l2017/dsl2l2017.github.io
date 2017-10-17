@@ -75,33 +75,32 @@ Permutation tests. Logistic regression. Slides: [part 1](https://dsl2l2017.githu
 
 In this session, students will present their [first assignment](/assignments.html). In this assignment, the students should make a 15-min presentation (10 min presentation + 5 min questions) on the project of their choice.
 
-### Session 6 (October 17th): Supervised learning
+### Session 6 (October 17th): Supervised learning.
 
-Supervised learning models. Overfitting. Regularization.
-
-
-### Session 7 (October 24th): Working with text
-
-Preprocessing, modeling and prediction from text data.
+Supervised learning models. Overfitting. Model selection.
 
 
-### Session 8 (October 31st): Introduction to deep learning
+### Session 7 (October 24th): Unsupervised learning.
+
+Clustering, dimensionality reduction, feature extraction.
 
 
-Deep convolutional networks. Pretrained networks.
+### Session 8 (October 31st): Introduction to deep learning.
+
+Deep convolutional networks. Pretrained networks. Library used: Keras.
 
 
-### Session 9 (November 7th): Coding sprint
+### Session 9 (November 7th): Practical machine learning
 
-We will contribute to scikit-learn by fixing issues and improving the code.
+Working with text and time series.
+
 
 ### Session 10 (November 14th): Invited talk: Federico Vaggi (Amazon Seattle)
 
 
-### Session 11 (November 21st): Machine learning at scale
+### Session 11 (November 21st): Coding sprint
 
-
-Deployment of a machine learning system in production using Amazon Web Services.
+We will contribute to scikit-learn by fixing issues and improving the code.
 
 
 ### Session 12 (November 28th): Final milestone
