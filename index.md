@@ -80,28 +80,33 @@ In this session, students will present their [first assignment](/assignments.htm
 Supervised learning models. Overfitting. Regularization.
 
 
-### Session 7 (October 24th): Scikit-learn internals
+### Session 7 (October 24th): Working with text
 
-In this class we will explore the scikit-learn internals by contributing to the project.
+Preprocessing, modeling and prediction from text data.
 
 
-### Session 8 (October 31st): Machine learning at scale
+### Session 8 (October 31st): Introduction to deep learning
+
+
+Deep convolutional networks. Pretrained networks.
+
+
+### Session 9 (November 7th): Coding sprint
+
+We will contribute to scikit-learn by fixing issues and improving the code.
+
+### Session 10 (November 14th): Invited talk: Federico Vaggi (Amazon Seattle)
+
+
+### Session 11 (November 21st): Machine learning at scale
+
 
 Deployment of a machine learning system in production using Amazon Web Services.
 
 
-### Session 9 (November 7th): TBD
+### Session 12 (November 28th): Final milestone
 
-
-### Session 10 (November 14th): TBD
-
-
-
-### Session 11 (November 21st): TBD
-
-
-### Session 12 (November 28th): TBD
-
+Final presentation of projects.
 
 ---
 
