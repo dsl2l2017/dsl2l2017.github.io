@@ -77,7 +77,7 @@ In this session, students will present their [first assignment](/assignments.htm
 
 ### Session 6 (October 17th): Supervised learning.
 
-Supervised learning models. Overfitting. Model selection.
+Supervised learning models. Overfitting. Model selection. [Class material](https://github.com/dsl2l2017/lecture_6).
 
 
 ### Session 7 (October 24th): Unsupervised learning.
