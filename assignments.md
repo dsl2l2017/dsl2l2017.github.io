@@ -6,11 +6,8 @@ layout: default
 
 The course is validated through 2 assignments. The assignments are carried out by groups of 3 to 5 students.
 
-## First assignment
 
-**Deadline**: October 10th.
-
-The goal of this assignment is to gather, clean and present a dataset. Students can choose any of the above or propose a new project. Note that these projects are not carved in stone but are rather meant as a starting point. Students are encouraged to propose new or derivative projects (but let me know before).
+Students can choose any of the above or propose a new project. Note that these projects are not carved in stone but are rather meant as a starting point. Students are encouraged to propose new or derivative projects (but let me know before).
 
 * **Criptocurrency price analysis**. Obtain historical data through [coinmarketcap API](https://coinmarketcap.com/api/) or [blockchain.info API](https://blockchain.info/api) or web scraping and analyze the resulting dataset. Potential tasks:
   - Identify daily, weekly and yearly trends.
@@ -45,14 +42,24 @@ The goal of this assignment is to gather, clean and present a dataset. Students 
 * **Cdiscount Image classification challenge**. Participate in the [Kaggle Cdiscount Image classification challenge](https://www.kaggle.com/c/cdiscount-image-classification-challenge). By its complexity, this project should last the full project.
 
 
+
+
+## First assignment
+
+**Deadline**: October 10th.
+
+The goal of this assignment is to gather, clean and present a dataset.
+
 ## Second assignment
 
 **Deadline**: November 28th.
 
 Goal: Build, deploy and compare machine learning models at scale.
 
-* **Bitcoin price forecasting**
+**Second assignment grading**. The second evaluation will be graded out of a total of 5 points and will have double weight in the final grade.
+  - Quality and clarity of presentation: 1pt.
+  - Quality of visualization in presentation and report: 1pt.
+  - Quality of predictive model and soundness of proposed approach: 1pt.
+  - Quality and clarity of written report: 2pt.
 
-* **Predicting stock market from Twitter**.
-
-* More projects and details to be decided.
+**Final grade**. min(0.25 * first milestone + 0.75 * second milestone + extra points, 1.)
