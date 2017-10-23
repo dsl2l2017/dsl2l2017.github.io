@@ -62,4 +62,4 @@ Goal: Build, deploy and compare machine learning models at scale.
   - Quality of predictive model and soundness of proposed approach: 1pt.
   - Quality and clarity of written report: 2pt.
 
-**Final grade**. min(0.25 * first milestone + 0.75 * second milestone + extra points, 1.)
+**Final grade**. min(0.4 * first milestone + 0.6 * second milestone + extra points, 1.)
