@@ -82,7 +82,7 @@ Supervised learning models. Overfitting. Model selection. [Class material](https
 
 ### Session 7 (October 24th): Unsupervised learning.
 
-Clustering, dimensionality reduction, feature extraction.
+Clustering, dimensionality reduction, feature extraction. [Class material](https://github.com/dsl2l2017/lecture_7)
 
 
 ### Session 8 (October 31st): Introduction to deep learning.
