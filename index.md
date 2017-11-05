@@ -87,15 +87,17 @@ Clustering, dimensionality reduction, feature extraction. [Class material](https
 
 ### Session 8 (October 31st): Introduction to deep learning.
 
-Deep convolutional networks. Pretrained networks. Library used: Keras.
+Deep convolutional networks. Pretrained networks. Library used: Keras. [Class material](https://github.com/dsl2l2017/lecture_8)
 
 
 ### Session 9 (November 7th): Practical machine learning
 
-Working with text and time series.
+Working with text and time series. [Class material](https://github.com/dsl2l2017/lecture_9)
 
 
-### Session 10 (November 14th): Invited talk: Federico Vaggi (Amazon Seattle)
+### Session 10 (November 14th): Generative Adversarial Networks (GANs)
+
+This lecture will be given by Federico Vaggi (Senior data scientist in Amazon Seattle).
 
 
 ### Session 11 (November 21st): Coding sprint
