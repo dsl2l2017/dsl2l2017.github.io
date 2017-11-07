@@ -105,7 +105,7 @@ This lecture will be given by Federico Vaggi (Senior data scientist in Amazon Se
 We will contribute to scikit-learn by fixing issues and improving the code.
 
 
-### Session 12 (November 28th): Final milestone
+### Session 12 (December 1st): Final milestone
 
 Final presentation of projects.
 
