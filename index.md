@@ -24,7 +24,6 @@ _Teaching assistant_: Bowen Yin Wang
 
 _Invited speaker_ (September 26th): [Nelle Varoquaux](https://bids.berkeley.edu/people/nelle-varoquaux), Postdoctoral Researcher, Berkeley Institute for Data Science.
 
-_Invited speaker_ (November 14th): [Federico Vaggi](https://www.linkedin.com/in/federico-vaggi-ba72a654/), Senior Applied Data Scientist at Amazon Seattle.
 
 **Office Hours**: Office hours are available for students who need further clarification of concepts presented in lecture, or have made solid attempts on the homework assignment or other practice problems and require further assistance understanding how to approach such problems.
 
@@ -97,7 +96,7 @@ Working with text and time series. [Class material](https://github.com/dsl2l2017
 
 ### Session 10 (November 14th): Generative Adversarial Networks (GANs)
 
-This lecture will be given by Federico Vaggi (Senior data scientist in Amazon Seattle).
+Tutorial on Generative Adversarial Networks (GANs)
 
 
 ### Session 11 (November 21st): Coding sprint
